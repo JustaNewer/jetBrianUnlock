@@ -1,0 +1,4 @@
+我们这个是JetBrains全家桶激活，包含 idea、appCode、Clion、DataGrip、DataSpell、dotCover、dotMemory、dotTrace、GoLand、phpStorm、pyCharm、Rider、RubyMine、WebStorm,自己需要激活哪个就去找对应的激活脚本。
+比如你要激活idea2024.1.2版本，你就去win2020-2024(一键激活)文件夹里面看激活教程。
+首先你要下载软件，软件下载完成后，然后去激活的时候保证软件是关闭的，软件的下载地址是：https://www.jetbrains.com/zh-cn/products/
+备用idea下载地址：https://www.jetbrains.com/idea/download/other.html
